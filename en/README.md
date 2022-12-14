@@ -1,4 +1,8 @@
 # SeedSigner Screenshots: English
+## Translation progress: 4.2%
+
+---
+
 
 
 ---
