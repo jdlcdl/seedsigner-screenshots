@@ -319,7 +319,7 @@ msgstr "Compacte"
 #. Briefly explains the Compact SeedQR data format
 #: src/seedsigner/gui/screens/seed_screens.py
 msgid "Raw entropy bits"
-msgstr "Bits entropie brut"
+msgstr "Entropie brute bits"
 
 #: src/seedsigner/gui/screens/seed_screens.py
 msgid "Transcribe SeedQR"
@@ -439,7 +439,7 @@ msgstr "Calculer Dernier Mot"
 #. Number of BIP-39 seed words, and the entropy -- in bits, contained within.
 #: src/seedsigner/gui/screens/tools_screens.py
 msgid "The {}th word is built from {} more entropy bits plus auto-calculated checksum."
-msgstr "Le {}ème mot est obtenu par {} plus de bits entropie plus la somme de contrôle."
+msgstr "Le {}ème mot est obtenu par {} plus d'entropie bits plus la somme de contrôle."
 
 #. current coin-flip number vs total flips (e.g. flip 3 of 4)
 #: src/seedsigner/gui/screens/tools_screens.py
@@ -1202,12 +1202,12 @@ msgstr "Longueur Phrase"
 #. Label to gather entropy through coin tosses
 #: src/seedsigner/views/tools_views.py
 msgid "Coin flip entropy"
-msgstr "Entropie de pile ou face"
+msgstr "Entropie pile ou face"
 
 #. Label to gather entropy through user specified BIP-39 word
 #: src/seedsigner/views/tools_views.py
 msgid "Word selection entropy"
-msgstr "Entropie d'une phrase"
+msgstr "Entropie choix de mots"
 
 #. Label to allow user to default entropy as all-zeros
 #: src/seedsigner/views/tools_views.py
