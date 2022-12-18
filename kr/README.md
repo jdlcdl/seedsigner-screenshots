@@ -1,5 +1,5 @@
 # SeedSigner Screenshots: Korean
-## Translation progress: 81.1%
+## Translation progress: 80.5%
 
 ---
 

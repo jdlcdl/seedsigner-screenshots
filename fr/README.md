@@ -1,5 +1,5 @@
 # SeedSigner Screenshots: French
-## Translation progress: 103.2%
+## Translation progress: 103.1%
 
 ---
 

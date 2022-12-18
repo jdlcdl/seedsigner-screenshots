@@ -1,5 +1,5 @@
 # SeedSigner Screenshots: Czech
-## Translation progress: 88.4%
+## Translation progress: 87.8%
 
 ---
 

@@ -1,5 +1,5 @@
 # SeedSigner Screenshots: Hebrew
-## Translation progress: 13.7%
+## Translation progress: 13.6%
 
 ---
 
