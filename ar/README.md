@@ -9,7 +9,7 @@
 
 ## Main Menu Views
 
-<table style="border: 0;"><tr><td align="center"><table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView<br/><br/><img src="MainMenuView.png"></td></tr></table><table align="left" style="border: 1px solid gray;"><tr><td align="center">PowerOptionsView<br/><br/><img src="PowerOptionsView.png"></td></tr></table><table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsUpdatedView<br/><br/><img src="SettingsUpdatedView.png"></td></tr></table></td></tr></table>
+<table style="border: 0;"><tr><td align="center"><table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView<br/><br/><img src="MainMenuView.png"></td></tr></table><table align="left" style="border: 1px solid gray;"><tr><td align="center">PowerOptionsView<br/><br/><img src="PowerOptionsView.png"></td></tr></table><table align="left" style="border: 1px solid gray;"><tr><td align="center">RestartView<br/><br/><img src="RestartView.png"></td></tr></table><table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsUpdatedView<br/><br/><img src="SettingsUpdatedView.png"></td></tr></table></td></tr></table>
 
 ---
 
