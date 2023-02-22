@@ -1,6 +1,7 @@
 # SeedSigner Screenshots: Russian
-## Translation progress: 85.7%
+## Translation progress: 88.8%
 
+[Russian messages.po catalog](messages.po)
 ---
 
 

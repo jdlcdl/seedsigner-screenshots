@@ -1,6 +1,7 @@
 # SeedSigner Screenshots: English
-## Translation progress: 4.2%
+## Translation progress: 4.3%
 
+[English messages.po catalog](messages.po)
 ---
 
 

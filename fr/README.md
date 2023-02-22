@@ -1,6 +1,7 @@
 # SeedSigner Screenshots: French
-## Translation progress: 103.1%
+## Translation progress: 107.6%
 
+[French messages.po catalog](messages.po)
 ---
 
 

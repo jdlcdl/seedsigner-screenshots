@@ -1,6 +1,7 @@
 # SeedSigner Screenshots: Czech
-## Translation progress: 87.8%
+## Translation progress: 91.0%
 
+[Czech messages.po catalog](messages.po)
 ---
 
 

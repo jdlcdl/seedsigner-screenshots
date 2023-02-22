@@ -1,6 +1,7 @@
 # SeedSigner Screenshots: Portuguese
-## Translation progress: 85.7%
+## Translation progress: 88.8%
 
+[Portuguese messages.po catalog](messages.po)
 ---
 
 
