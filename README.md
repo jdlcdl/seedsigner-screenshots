@@ -110,6 +110,7 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_camera_rotation<br/><br/><img src="SettingsEntryUpdateSelectionView_camera_rotation.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_compact_seedqr<br/><br/><img src="SettingsEntryUpdateSelectionView_compact_seedqr.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_bip85_child_seeds<br/><br/><img src="SettingsEntryUpdateSelectionView_bip85_child_seeds.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_message_signing<br/><br/><img src="SettingsEntryUpdateSelectionView_message_signing.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_privacy_warnings<br/><br/><img src="SettingsEntryUpdateSelectionView_privacy_warnings.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_dire_warnings<br/><br/><img src="SettingsEntryUpdateSelectionView_dire_warnings.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_qr_brightness_tips<br/><br/><img src="SettingsEntryUpdateSelectionView_qr_brightness_tips.png"></td></tr></table>
