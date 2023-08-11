@@ -7,6 +7,9 @@
 
 <table style="border: 0;"><tr><td align="center">
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView<br/><br/><img src="MainMenuView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_SDCardStateChangeToast_removed<br/><br/><img src="MainMenuView_SDCardStateChangeToast_removed.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_SDCardStateChangeToast_inserted<br/><br/><img src="MainMenuView_SDCardStateChangeToast_inserted.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_RemoveSDCardToast<br/><br/><img src="MainMenuView_RemoveSDCardToast.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">PowerOptionsView<br/><br/><img src="PowerOptionsView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">RestartView<br/><br/><img src="RestartView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">NotYetImplementedView<br/><br/><img src="NotYetImplementedView.png"></td></tr></table>
@@ -110,7 +113,6 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_camera_rotation<br/><br/><img src="SettingsEntryUpdateSelectionView_camera_rotation.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_compact_seedqr<br/><br/><img src="SettingsEntryUpdateSelectionView_compact_seedqr.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_bip85_child_seeds<br/><br/><img src="SettingsEntryUpdateSelectionView_bip85_child_seeds.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_message_signing<br/><br/><img src="SettingsEntryUpdateSelectionView_message_signing.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_privacy_warnings<br/><br/><img src="SettingsEntryUpdateSelectionView_privacy_warnings.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_dire_warnings<br/><br/><img src="SettingsEntryUpdateSelectionView_dire_warnings.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_qr_brightness_tips<br/><br/><img src="SettingsEntryUpdateSelectionView_qr_brightness_tips.png"></td></tr></table>
