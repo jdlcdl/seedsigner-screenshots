@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-10-09 10:46-0400\n"
+"POT-Creation-Date: 2023-10-09 11:36-0400\n"
 "PO-Revision-Date: 2022-04-29 13:50+0000\n"
 "Last-Translator: Jp Prudhomme <jpprudhomme@gmail.com>, 2022\n"
 "Language: fr\n"
@@ -440,10 +440,12 @@ msgid ""
 msgstr "SeedSigner est 100%% gratuit & open source, financé par la communauté Bitcoin. Faites un don 'onchain' ou LN à:"
 
 #: src/seedsigner/gui/screens/settings_screens.py
+#: src/seedsigner/views/settings_views.py
 msgid "Settings QR"
-msgstr "Params QR"
+msgstr "Paramètres QR"
 
-#: src/seedsigner/gui/screens/settings_screens.py src/seedsigner/views/view.py
+#: src/seedsigner/gui/screens/settings_screens.py
+#: src/seedsigner/views/settings_views.py src/seedsigner/views/view.py
 msgid "Home"
 msgstr "Accueil"
 
