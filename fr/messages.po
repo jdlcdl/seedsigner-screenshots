@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-10-09 10:09-0400\n"
+"POT-Creation-Date: 2023-10-09 10:46-0400\n"
 "PO-Revision-Date: 2022-04-29 13:50+0000\n"
 "Last-Translator: Jp Prudhomme <jpprudhomme@gmail.com>, 2022\n"
 "Language: fr\n"
@@ -161,7 +161,7 @@ msgstr "Adr"
 
 #: src/seedsigner/gui/screens/psbt_screens.py
 msgid "Address verified!"
-msgstr "Adresse vérifiée !"
+msgstr "Adresse vérifiée!"
 
 #: src/seedsigner/gui/screens/psbt_screens.py
 msgid "Sign PSBT"
@@ -177,7 +177,7 @@ msgstr "< arriere  |  "
 
 #: src/seedsigner/gui/screens/screen.py src/seedsigner/views/seed_views.py
 msgid "Success!"
-msgstr "Succès !"
+msgstr "Succès!"
 
 #: src/seedsigner/gui/screens/screen.py src/seedsigner/views/seed_views.py
 msgid "OK"
@@ -189,7 +189,7 @@ msgstr "Attention"
 
 #: src/seedsigner/gui/screens/screen.py src/seedsigner/views/seed_views.py
 msgid "Privacy Leak!"
-msgstr "Brèche Confidentialité !"
+msgstr "Brèche Confidentialité!"
 
 #: src/seedsigner/gui/screens/screen.py
 msgid "I Understand"
@@ -197,7 +197,7 @@ msgstr "Je comprends"
 
 #: src/seedsigner/gui/screens/screen.py
 msgid "Classified Info!"
-msgstr "Info Confidentielle !"
+msgstr "Info Confidentielle!"
 
 #: src/seedsigner/gui/screens/screen.py
 msgid "Restarting"
@@ -253,7 +253,7 @@ msgstr "Index BIP-85"
 
 #: src/seedsigner/gui/screens/seed_screens.py
 msgid "Verify Backup?"
-msgstr "Verifier l'Archive ?"
+msgstr "Verifier l'Archive?"
 
 #: src/seedsigner/gui/screens/seed_screens.py
 msgid "Optionally verify that your mnemonic backup is correct."
@@ -261,7 +261,7 @@ msgstr "Vérifier également que votre archive mnémonique est correcte."
 
 #: src/seedsigner/gui/screens/seed_screens.py
 msgid "Derivation Path"
-msgstr "Chemin de Dérivation"
+msgstr "Chemin Dérivation"
 
 #: src/seedsigner/gui/screens/seed_screens.py
 #: src/seedsigner/views/seed_views.py
@@ -294,7 +294,7 @@ msgstr "Xpub"
 #: src/seedsigner/gui/screens/seed_screens.py
 #: src/seedsigner/views/seed_views.py
 msgid "BIP-39 Passphrase"
-msgstr "BIP39 Phrase Secrète"
+msgstr "Phrase Secrète"
 
 #: src/seedsigner/gui/screens/seed_screens.py
 msgid "Verify Passphrase"
@@ -374,6 +374,30 @@ msgstr "Politique"
 msgid "Signing Keys"
 msgstr "Clés de Signature"
 
+#: src/seedsigner/gui/screens/seed_screens.py
+msgid "Review Message"
+msgstr "Lire Message"
+
+#. Short for "Next step"
+#: src/seedsigner/gui/screens/seed_screens.py
+#: src/seedsigner/views/psbt_views.py src/seedsigner/views/seed_views.py
+#: src/seedsigner/views/tools_views.py
+msgid "Next"
+msgstr "Suivant"
+
+#: src/seedsigner/gui/screens/seed_screens.py
+msgid "Confirm Address"
+msgstr "Confirmer Adresse"
+
+#: src/seedsigner/gui/screens/seed_screens.py
+#: src/seedsigner/views/seed_views.py
+msgid "Sign Message"
+msgstr "Signer Message"
+
+#: src/seedsigner/gui/screens/seed_screens.py
+msgid "derivation path"
+msgstr "chemin de dérivation"
+
 #: src/seedsigner/gui/screens/settings_screens.py
 #: src/seedsigner/views/settings_views.py src/seedsigner/views/view.py
 msgid "Settings"
@@ -415,11 +439,19 @@ msgid ""
 "Donate onchain or LN at:"
 msgstr "SeedSigner est 100%% gratuit & open source, financé par la communauté Bitcoin. Faites un don 'onchain' ou LN à:"
 
+#: src/seedsigner/gui/screens/settings_screens.py
+msgid "Settings QR"
+msgstr "Params QR"
+
+#: src/seedsigner/gui/screens/settings_screens.py src/seedsigner/views/view.py
+msgid "Home"
+msgstr "Accueil"
+
 #. Instructions when reviewing an image; "reshoot" must point left, "accept"
 #. must point right
 #: src/seedsigner/gui/screens/tools_screens.py
 msgid " < reshoot  |  accept > "
-msgstr "< recapturer | accepter >"
+msgstr " < recapturer | accepter > "
 
 #. current roll number vs total rolls (e.g. roll 7 of 50)
 #: src/seedsigner/gui/screens/tools_screens.py
@@ -429,7 +461,7 @@ msgstr "Lancé de Dé {}/{}"
 #. Build the last word in a 12 or 24 word BIP-39 mnemonic seed phrase.
 #: src/seedsigner/gui/screens/tools_screens.py
 msgid "Build Final Word"
-msgstr "Constr. Dernier Mot"
+msgstr "Créer Dernier Mot"
 
 #. Number of BIP-39 seed words, and the entropy -- in bits, contained within.
 #: src/seedsigner/gui/screens/tools_screens.py
@@ -674,6 +706,10 @@ msgid "BIP-85 child seeds"
 msgstr "BIP-85 seeds enfants"
 
 #: src/seedsigner/models/settings_definition.py
+msgid "Message signing"
+msgstr "Signer Messages"
+
+#: src/seedsigner/models/settings_definition.py
 msgid "Show privacy warnings"
 msgstr "Afficher avertissements de confidentialité"
 
@@ -715,7 +751,7 @@ msgstr "Analyse du PSBT..."
 
 #: src/seedsigner/views/psbt_views.py
 msgid "Unsupported Script Type!"
-msgstr "Type de Script non supporté !"
+msgstr "Type de Script non supporté!"
 
 #: src/seedsigner/views/psbt_views.py
 msgid "PSBT has unsupported input script type, please verify your change addresses."
@@ -729,7 +765,7 @@ msgstr "Continuer"
 #. spent
 #: src/seedsigner/views/psbt_views.py
 msgid "Full Spend!"
-msgstr "Dépense Totale !"
+msgstr "Dépense Totale!"
 
 #: src/seedsigner/views/psbt_views.py
 msgid "This PSBT spends its entire input value. No change is coming back to your wallet."
@@ -745,12 +781,6 @@ msgstr "À envoyer"
 #: src/seedsigner/views/psbt_views.py
 msgid "Next Recipient"
 msgstr "Destinataire suivant"
-
-#. Short for "Next step"
-#: src/seedsigner/views/psbt_views.py src/seedsigner/views/seed_views.py
-#: src/seedsigner/views/tools_views.py
-msgid "Next"
-msgstr "Suivant"
 
 #. The amount you're receiving back from the transaction
 #: src/seedsigner/views/psbt_views.py
@@ -841,10 +871,6 @@ msgid "Select seed to verify"
 msgstr "Sélectionner seed à vérifier"
 
 #: src/seedsigner/views/seed_views.py
-msgid "Sign Message"
-msgstr "Signer Message"
-
-#: src/seedsigner/views/seed_views.py
 msgid "Load the seed to sign with"
 msgstr "Entrer le seed pour signer"
 
@@ -879,7 +905,7 @@ msgstr "Rejeter"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Invalid Mnemonic!"
-msgstr "Mnemonique Invalide !"
+msgstr "Mnemonique Invalide!"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Checksum failure; not a valid seed phrase."
@@ -899,11 +925,11 @@ msgstr "Garder Seed"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Discard Seed?"
-msgstr "Rejeter Seed ?"
+msgstr "Rejeter Seed?"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Wipe seed {} from the device?"
-msgstr "Effacer seed {} de l'appareil ?"
+msgstr "Effacer seed {} de l'appareil?"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Scan PSBT"
@@ -999,7 +1025,7 @@ msgstr "Erreur Vérification"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Wrong Word!"
-msgstr "Mots Erronés !"
+msgstr "Mots Erronés!"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Word #{} is not \"{}\"!"
@@ -1011,7 +1037,7 @@ msgstr "Archive Vérifiée"
 
 #: src/seedsigner/views/seed_views.py
 msgid "All mnemonic backup words were successfully verified!"
-msgstr "L'archive des mots mnémoniques a été vérifiée avec succès !"
+msgstr "L'archive des mots mnémoniques a été vérifiée avec succès!"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Standard: 25x25"
@@ -1043,7 +1069,7 @@ msgstr "Confirmer SeedQR"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Confirm SeedQR?"
-msgstr "Confirmer SeedQR ?"
+msgstr "Confirmer SeedQR?"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Scan your SeedQR"
@@ -1051,11 +1077,11 @@ msgstr "Scanner votre SeedQR"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Error!"
-msgstr "Erreur !"
+msgstr "Erreur!"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Your transcribed SeedQR does not match your original seed!"
-msgstr "Votre SeedQR transcrite ne correspond pas a la seed d'origine !"
+msgstr "Votre SeedQR transcrite ne correspond pas a la seed d'origine!"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Review SeedQR"
@@ -1067,7 +1093,7 @@ msgstr "Votre SeedQR transcrite a été scannée avec succès et correspond à l
 
 #: src/seedsigner/views/seed_views.py
 msgid "Your transcribed SeedQR could not be read!"
-msgstr "Votre SeedQR transcrite n'a pas pu être lue !"
+msgstr "Votre SeedQR transcrite n'a pas pu être lue!"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Sig type can't be auto-detected from this address. Please specify:"
@@ -1118,6 +1144,14 @@ msgstr "Avancé"
 msgid "Dev Options"
 msgstr "Options Dév"
 
+#: src/seedsigner/views/settings_views.py
+msgid "Persistent Settings enabled. Settings saved to SD card."
+msgstr "Paramètres Persistant activé.  Params enrestés sur carte SD."
+
+#: src/seedsigner/views/settings_views.py
+msgid "Settings updated in temporary memory"
+msgstr "Révision provisoire paramètres"
+
 #: src/seedsigner/views/tools_views.py
 msgid "New seed"
 msgstr "Nouvelle seed"
@@ -1140,7 +1174,7 @@ msgstr "24 mots"
 
 #: src/seedsigner/views/tools_views.py
 msgid "Mnemonic Length?"
-msgstr "Longueur Phrase ?"
+msgstr "Longueur Phrase?"
 
 #: src/seedsigner/views/tools_views.py
 msgid "12 words (50 rolls)"
@@ -1214,10 +1248,6 @@ msgid "Seeds"
 msgstr "Seeds"
 
 #: src/seedsigner/views/view.py
-msgid "Home"
-msgstr "Accueil"
-
-#: src/seedsigner/views/view.py
 msgid "Restart"
 msgstr "Redémarrer"
 
@@ -1239,7 +1269,7 @@ msgstr "Pas encore implémenté"
 
 #: src/seedsigner/views/view.py
 msgid "This is still on our to-do list!"
-msgstr "Ce qu'il nous reste 'à-faire' !"
+msgstr "Ce qu'il nous reste 'à-faire'!"
 
 #: src/seedsigner/views/view.py
 msgid "Back to Main Menu"
@@ -1341,7 +1371,7 @@ msgstr ""
 #~ msgstr "Paramètres QR"
 
 #~ msgid "Settings imported successfully!"
-#~ msgstr "Import Paramètres réussi !"
+#~ msgstr "Import Paramètres réussi!"
 
 #~ msgid "MicroSD removed"
 #~ msgstr "MicroSD retirée"
@@ -1369,10 +1399,10 @@ msgstr ""
 #~ "Be sure you know what you're doing!"
 #~ msgstr ""
 #~ "La phrase secrète BIP-39 change votre seed, créant de nouveaux xpubs, portefeuilles, etc.\n"
-#~ "Soyez certain de savoir ce que vous faites !"
+#~ "Soyez certain de savoir ce que vous faites!"
 
 #~ msgid "SeedQR is your private key!"
-#~ msgstr "SeedQR est votre clé privée !"
+#~ msgstr "SeedQR est votre clé privée!"
 
 #~ msgid "Never photograph it or scan it into an online device."
 #~ msgstr "Ne jamais le photographier ou scanner sur un appareil connecté."
