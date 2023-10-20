@@ -1,7 +1,9 @@
-# seedsigner_screenshots
+# SeedSigner Screenshots 
 
-Branch 'main' is empty here.  Either:
-
-* Track the [main repo](https://github.com/SeedSigner/seedsigner-screenshots)
-* Else, look for branches
-
+* [Czech](cs/README.md)
+* [English](en/README.md)
+* [French](fr/README.md)
+* [German](de/README.md)
+* [Portuguese](pt/README.md)
+* [Russian](ru/README.md)
+* [Spanish](es/README.md)
