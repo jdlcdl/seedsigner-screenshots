@@ -1,5 +1,5 @@
 # SeedSigner Screenshots: German
-## Translation progress: 84.4%
+## Translation progress: 83.8%
 
 [German messages.po catalog](messages.po)
 ---

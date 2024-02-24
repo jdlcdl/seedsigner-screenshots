@@ -1,5 +1,5 @@
 # SeedSigner Screenshots: Spanish
-## Translation progress: 108.5%
+## Translation progress: 105.1%
 
 [Spanish messages.po catalog](messages.po)
 ---
