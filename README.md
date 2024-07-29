@@ -22,13 +22,13 @@
 <table style="border: 0;"><tr><td align="center">
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedsMenuView<br/><br/><img src="seed_views/SeedsMenuView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">LoadSeedView<br/><br/><img src="seed_views/LoadSeedView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">ToolsViaCreateASeed<br/><br/><img src="seed_views/ToolsViaCreateASeed.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedMnemonicEntryView<br/><br/><img src="seed_views/SeedMnemonicEntryView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedMnemonicInvalidView<br/><br/><img src="seed_views/SeedMnemonicInvalidView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedFinalizeView<br/><br/><img src="seed_views/SeedFinalizeView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView<br/><br/><img src="seed_views/SeedAddPassphraseView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseExitDialogView<br/><br/><img src="seed_views/SeedAddPassphraseExitDialogView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedReviewPassphraseView<br/><br/><img src="seed_views/SeedReviewPassphraseView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">ToolsViaCreateASeed<br/><br/><img src="seed_views/ToolsViaCreateASeed.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedOptionsView<br/><br/><img src="seed_views/SeedOptionsView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedBackupView<br/><br/><img src="seed_views/SeedBackupView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedExportXpubSigTypeView<br/><br/><img src="seed_views/SeedExportXpubSigTypeView.png"></td></tr></table>
