@@ -28,6 +28,7 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView<br/><br/><img src="seed_views/SeedAddPassphraseView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseExitDialogView<br/><br/><img src="seed_views/SeedAddPassphraseExitDialogView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedReviewPassphraseView<br/><br/><img src="seed_views/SeedReviewPassphraseView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">ToolsViaCreateASeed<br/><br/><img src="seed_views/ToolsViaCreateASeed.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedOptionsView<br/><br/><img src="seed_views/SeedOptionsView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedBackupView<br/><br/><img src="seed_views/SeedBackupView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedExportXpubSigTypeView<br/><br/><img src="seed_views/SeedExportXpubSigTypeView.png"></td></tr></table>
