@@ -1,4 +1,4 @@
-# SeedSigner Screenshots: Português BR
+# SeedSigner Screenshots: Português (Brasil)
 ## Translation progress: 100.0%
 
 ---
