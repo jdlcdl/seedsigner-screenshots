@@ -11,6 +11,12 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_SDCardStateChangeToast_removed<br/><br/><img src="main_menu_views/MainMenuView_SDCardStateChangeToast_removed.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_SDCardStateChangeToast_inserted<br/><br/><img src="main_menu_views/MainMenuView_SDCardStateChangeToast_inserted.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_RemoveSDCardToast<br/><br/><img src="main_menu_views/MainMenuView_RemoveSDCardToast.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_DefaultToast<br/><br/><img src="main_menu_views/MainMenuView_DefaultToast.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_InfoToast<br/><br/><img src="main_menu_views/MainMenuView_InfoToast.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_SuccessToast<br/><br/><img src="main_menu_views/MainMenuView_SuccessToast.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_WarningToast<br/><br/><img src="main_menu_views/MainMenuView_WarningToast.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_DireWarningToast<br/><br/><img src="main_menu_views/MainMenuView_DireWarningToast.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_ErrorToast<br/><br/><img src="main_menu_views/MainMenuView_ErrorToast.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">PowerOptionsView<br/><br/><img src="main_menu_views/PowerOptionsView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">RestartView<br/><br/><img src="main_menu_views/RestartView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">PowerOffView<br/><br/><img src="main_menu_views/PowerOffView.png"></td></tr></table>
