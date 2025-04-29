@@ -129,7 +129,7 @@
 
 <table style="border: 0;"><tr><td align="center">  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsMenuView<br/><br/><img src="settings_views/SettingsMenuView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsMenuView__Advanced<br/><br/><img src="settings_views/SettingsMenuView__Advanced.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">LocaleSelectionView<br/><br/><img src="settings_views/LocaleSelectionView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_locale<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_locale.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_persistent_settings<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_persistent_settings.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_coordinators<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_coordinators.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_denomination<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_denomination.png"></td></tr></table>
