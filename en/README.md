@@ -128,11 +128,11 @@
 ## Settings Views
 
 <table style="border: 0;"><tr><td align="center">  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsMenuView<br/><br/><img src="settings_views/SettingsMenuView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsMenuView__Advanced<br/><br/><img src="settings_views/SettingsMenuView__Advanced.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">LocaleSelectionView<br/><br/><img src="settings_views/LocaleSelectionView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_persistent_settings<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_persistent_settings.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_coordinators<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_coordinators.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_denomination<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_denomination.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsMenuView__Advanced<br/><br/><img src="settings_views/SettingsMenuView__Advanced.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_network<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_network.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_qr_density<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_qr_density.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_xpub_export<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_xpub_export.png"></td></tr></table>
@@ -149,6 +149,9 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_dire_warnings<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_dire_warnings.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_qr_brightness_tips<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_qr_brightness_tips.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_partner_logos<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_partner_logos.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsMenuView__Hardware<br/><br/><img src="settings_views/SettingsMenuView__Hardware.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_display_config<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_display_config.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_color_inverted<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_color_inverted.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">IOTestView<br/><br/><img src="settings_views/IOTestView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">DonateView<br/><br/><img src="settings_views/DonateView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsIngestSettingsQRView_persistent<br/><br/><img src="settings_views/SettingsIngestSettingsQRView_persistent.png"></td></tr></table>

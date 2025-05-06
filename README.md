@@ -15,14 +15,4 @@ see: https://github.com/SeedSigner/seedsigner/blob/dev/tests/screenshot_generato
 
 ## Currently supported or in-progress languages
 * [English](en/README.md)
-* [Català](ca/README.md)
-* [Deutsch](de/README.md)
 * [Español](es/README.md)
-* [Français](fr/README.md)
-* [Nederlands](nl/README.md)
-* [(beta) 日本語 (Japanese)](ja/README.md)
-* [(beta) 한국어 (Korean)](ko/README.md)
-* [简体中文 (Chinese Simplified)](zh_Hans_CN/README.md)
-* [Italiano](it/README.md)
-* [Português (Brasil)](pt_BR/README.md)
-* [русский (Russian)](ru/README.md)
