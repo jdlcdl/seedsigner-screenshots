@@ -1,5 +1,5 @@
 # SeedSigner Screenshots: 简体中文 (Chinese Simplified)
-## Translation progress: 100.0%
+## Translation progress: 99.7%
 
 ---
 
