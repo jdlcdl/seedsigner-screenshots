@@ -1,5 +1,5 @@
 # SeedSigner Screenshots: (beta) 日本語 (Japanese)
-## Translation progress: 100.0%
+## Translation progress: 99.1%
 
 ---
 

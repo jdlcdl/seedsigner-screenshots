@@ -20,5 +20,6 @@ see: https://github.com/SeedSigner/seedsigner/blob/dev/tests/screenshot_generato
 * [Español](es/README.md)
 * [Français](fr/README.md)
 * [Nederlands](nl/README.md)
-* [简体中文 (Chinese Simplified)](zh_Hans_CN/README.md)
+* [(beta) 简体中文 (Chinese Simplified)](zh_Hans_CN/README.md)
+* [(beta) 日本語 (Japanese)](ja/README.md)
 * [Italiano](it/README.md)
